@@ -1,6 +1,6 @@
 # SATURATION-TECHNIQUE-LUTS
 3 LUTs of a saturation technique from a Alex Jordan lesson (https://www.youtube.com/watch?v=Bbw9OO0PzS8) removing the texture component.
-To reproduce the shadow and highlight adjustments of Davinci Resolve Primaries panel simply structure SHADOW SAT.cube and HIGHLIGHTS SAT.cube both in parallel nodes and adjust opacity of each other for controlling the amount. HIGHLIGHTS + SHADOWS SAT.cube reproduce both effects at 100% amount.
+ To reproduce the shadow and highlight adjustments of Davinci Resolve Primaries panel simply structure SHADOW SAT.cube and HIGHLIGHTS SAT.cube both in parallel nodes and adjust opacity of each other for controlling the amount. HIGHLIGHTS + SHADOWS SAT.cube reproduce both effects at 100% amount.
 
 1. HIGHLIGHTS + SHADOWS SAT.cube https://github.com/IRCGraphic/SATURATION-TECHNIQUE-LUTS/blob/main/HIGHLIGHTS%20%2B%20SHADOWS%20SAT.cube
 
